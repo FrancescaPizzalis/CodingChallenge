@@ -1,0 +1,150 @@
+img.background{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+min-width: 1024px;
+}
+
+
+.contenitore{
+  margin-top:200px;
+  margin-left: 500px;
+  width: 50%;
+  height: 800px;
+  background: #000000;
+  opacity: 0.5;
+  padding: 20px;
+  border-radius: 10px;
+  position:relative;
+}
+
+.logo{
+  width: 200px;
+  margin-left: 350px;
+}
+
+.logo-text{
+  color: #00ff00;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+.green{
+  background-color: #00ff00;
+  padding: 5px;
+  position: absolute;
+  left: 700px;
+  right: 600px;
+  top: 400px;
+}
+span{
+  margin-left: 150px;
+}
+
+.Gino{
+  position: absolute;
+  top: 50%;
+  left: 600px;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+#freccia1{
+  left: 600px;
+  position: absolute;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+  top: 50%;
+}
+#Livello_carica1{
+  left: 600px;
+  position: absolute;
+  color: white;
+  font-family:   'Noto Sans', sans-serif;
+  font-size: 15px;
+  top: 52%;
+}
+.orange{
+
+  background-color: #ff7f50;
+  padding: 10px;
+  position: absolute;
+  left: 600px;
+  right: 900px;
+  top: 580px;
+  border-radius: 5px;
+}
+.Mike{
+  position: absolute;
+  top: 65%;
+  left: 600px;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#freccia2{
+  left: 600px;
+  position: absolute;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+  top: 65%;
+}
+#Livello_carica2{
+  left: 600px;
+  position: absolute;
+  color: white;
+  font-family:   'Noto Sans', sans-serif;
+  font-size: 15px;
+  top:67%;
+}
+.limegreen{
+
+  background-color: #32cd32;
+  padding: 10px;
+  position: absolute;
+  left: 600px;
+  right: 980px;
+  top: 720px;
+  border-radius: 5px;
+}
+.Fede{
+  position: absolute;
+  top: 80%;
+  left: 600px;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#freccia3{
+  left: 600px;
+  position: absolute;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+  top: 80%;
+}
+#Livello_carica3{
+  left: 600px;
+  position: absolute;
+  color: white;
+  font-family:   'Noto Sans', sans-serif;
+  font-size: 15px;
+  top:82%;
+}
+.red{
+
+  background-color:#f08080;
+  padding: 10px;
+  position: absolute;
+  left: 600px;
+  right: 1000px;
+  top: 860px;
+  border-radius: 5px;
+}
